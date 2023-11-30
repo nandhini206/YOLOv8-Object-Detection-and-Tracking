@@ -27,15 +27,15 @@ This app is up and running on Streamlit cloud server!!! Thanks 'Streamlit' for t
 
 ### Home page
 
-<img src="https://github.com/Hirthick6/YOLOv8-Object-Detection-and-Tracking-streamlit-/blob/main/assets/pic1.png" >
+<img src="https://github.com/nandhini206/YOLOv8-Object-Detection-and-Tracking/blob/main/assets/pic1.png" >
 
 ### Page after uploading an image and object detection
 
-<img src="https://github.com/Hirthick6/YOLOv8-Object-Detection-and-Tracking-streamlit-/blob/main/assets/pic3.png" >
+<img src="https://github.com/nandhini206/YOLOv8-Object-Detection-and-Tracking/blob/main/assets/pic3.png" >
 
 ### Segmentation task on image
 
-<img src="https://github.com/Hirthick6/YOLOv8-Object-Detection-and-Tracking-streamlit-/blob/main/assets/segmentation.png" >
+<img src="https://github.com/nandhini206/YOLOv8-Object-Detection-and-Tracking/blob/main/assets/segmentation.png" >
 
 ## Requirements
 
